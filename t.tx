@@ -1,0 +1,5 @@
+pip install selenium webdriver-manager ipykernel pandas openpyxl
+
+python -m ipykernel install --user --name env --display-name "scrapingOlx"
+
+.\env\Scripts\activate.bat
